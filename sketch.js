@@ -19,9 +19,9 @@ function preload(){
   car3_img = loadImage("images/car3.png");
   car4_img = loadImage("images/car4.png");
   ground = loadImage("images/ground.png");
-  bronze_img = loadImage("Images/bronze.png");
-  silver_img = loadImage("Images/silver.png");
-  gold_img = loadImage("Images/gold.png");
+  bronze_img = loadImage("images/bronze.png");
+  silver_img = loadImage("images/silver.png");
+  gold_img = loadImage("images/gold.png");
 }
 
 function setup(){
