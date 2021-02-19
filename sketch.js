@@ -35,6 +35,7 @@ function setup(){
   finishedPlayers = 0;
   yVel = 0;
   xVel = 0;
+  obstacles=createGroup();
 
   xSet = false;
   game = new Game();
